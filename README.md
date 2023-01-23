@@ -1,6 +1,6 @@
 ## Olá, sou Francisco Strunck!
 
-### 🧪 Engenheiro químico e atualmente realizando mestrado na mesma área e me especializando como cientista de dados. Com habilidades sólidas em análise de dados, modelagem matemática e programação, estou desenvolvendo um projeto de modelagem, simulação, controle e automatização da polimerização de estireno aplicando técnicas avançadas de inteligência artificial para detectar falhas no processo. Estou sempre procurando novos desafios e oportunidades para aplicar minhas habilidades e resolver problemas reais e impactar positivamente a indústria. Bem-vindo ao meu perfil no GitHub!
+### 🧪 Sou engenheiro químico e atualmente realizando mestrado na mesma área e me especializando como cientista de dados. Com habilidades sólidas em análise de dados, modelagem matemática e programação, estou desenvolvendo um projeto de modelagem, simulação, controle e automatização da polimerização de estireno aplicando técnicas avançadas de inteligência artificial para detectar falhas no processo. Estou sempre procurando novos desafios e oportunidades para aplicar minhas habilidades e resolver problemas reais e impactar positivamente a indústria. Bem-vindo ao meu perfil no GitHub!
 
  <div>
   <a href="https://github.com/FranciscoStrunck">
