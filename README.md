@@ -2,7 +2,11 @@
 
 ### 🧪 Sou Engenheiro Químico, atualmente realizo mestrado e me especializando como cientista de dados. Com habilidades sólidas em análise de dados, modelagem matemática e programação. Desenvolvo um projeto de modelagem, simulação, controle e automatização da polimerização de estireno aplicando técnicas avançadas de inteligência artificial para detectar falhas no processo. Sempre procurando novos desafios e oportunidades para aplicar minhas habilidades e resolver problemas reais e impactar positivamente a indústria. Bem-vindo ao meu perfil no GitHub!
 
-
+ <div>
+  <a href="https://github.com/FranciscoStrunck">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoStrunck&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Francisco-Cplusplus" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Francisco-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
